@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+.nombre {
+  font-family: "Brush Script MT", cursive;
+  color: lightblue;
+  padding: 15px;
+}
+header {
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+  display: none;
+  display: flex;
+  gap: 10px;
+  justify-content: left;
+  flex-wrap: wrap;
+}
+li {
+  font-size: 2.5em;
+  font-weight: bold;
+  list-style-type: none;
+  color: wheat;
+  font-family: "Courier New", monospace;
+}
+#title1 {
+  font-size: 50px;
+}
+#title2 {
+  font-size: 30px;
+}
+.padd {
+  padding: 100px;
+}
+a {
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration-color: gray;
+  font-size: 2rem;
+  padding: 15px;
+}
+img {
+  width: 50%;
+  height: 30%;
+}
+.inicio {
+  background-image: url(imagenes/16.jpg);
+  background-size:60%;
+  background-position-y:-500px;
+  padding: 50px;
+}
+h3 {
+  font-size: 50px;
+}
+h4 {
+  font-size: 35px;
+}
+.sideside {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  color: rgb(238, 238, 238);
+}
+
+#carouselExampleAutoplaying,
+#carouselExampleAutoplaying img {
+  width: 50%;
+}
+.carousel-real {
+  display: flex;
+  justify-content: center;
+}
+#exposition1 {
+  display: flex;
+  position: relative;
+  top: 50px;
+}
+#exposition2 {
+  display: flex;
+  position: relative;
+  top: -500px;
+  right: 200px;
+}
+.expositionimg1 {
+  flex: 1;
+  border-radius: 10%;
+}
+.expositionimg2 {
+  flex: 3;
+  border-radius: 10%;
+}
+footer {
+  text-align: center;
+}
+h5 {
+  color: white;
+}
+h2 {
+  color: navajowhite;
+}
+.planeimage {
+  width: 294px;
+  height: 250px;
+}
+.productdescription {
+  color: black;
+}
+#itemsdeproductos {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.exposition {
+  margin-top: 300px;
+}
+#exposition2 .expositionimg1 {
+  margin-left: 150px;
+}
+.navbar {
+  width: 100%;
+}
+.container-fluid {
+  width: 100%;
+  background-color: black;
+  height: 100%;
+}
+.nav-item {
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration-color: gray;
+  font-size: 2rem;
+  padding: 15px;
+}
+.nav-link {
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration-color: gray;
+  font-size: 2rem;
+  padding: 15px;
+}
+.sidesidecount {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
