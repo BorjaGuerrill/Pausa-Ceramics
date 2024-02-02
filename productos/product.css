@@ -1,0 +1,13 @@
+#price{
+    color:white;
+    text-align:right;
+    padding-right:400px;
+}
+#mainImg{
+    margin-top:-100px;
+    border-radius:5%;
+}
+#mainTitle{
+    /* padding-right: 100px; */
+    padding-left: 368px;
+}

@@ -1,0 +1,1 @@
+aqui van a ir todos los productos NO LA TIENDA en la tienda tu le haces click a un producto y te lleva aca. en esta carpeta van a aver muchos documentos de html porque van a ser todos los productos, pero solo un css para todos los productos
